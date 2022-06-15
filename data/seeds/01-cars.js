@@ -2,7 +2,7 @@
 
 const cars = [
     {
-        vin: '1HGCM8AJX7U049091',
+        vin: '1FADP3K2XDL267699',
         make: 'BMW',
         model: 'X5',
         mileage: 10000,
@@ -10,7 +10,7 @@ const cars = [
         transmission: 'Automatic',
     },
     {
-        vin: '1HGCM8AJX7U049092',
+        vin: '2A4GP44R87R372965',
         make: 'Ford',
         model: 'Fiesta',
         mileage: 20000,
@@ -18,7 +18,7 @@ const cars = [
         transmission: 'Manual',
     },
     {
-        vin: '1HGCM8AJX7U049093',
+        vin: '2XKWD69X0RM674638',
         make: 'Toyota',
         model: 'Corolla',
         mileage: 30000,
